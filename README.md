@@ -56,7 +56,7 @@ This project will span the following phases:
 
 The primary metrics for model evaluation include:
 
-<<<<<<< HEAD
+
 •	Prediction Accuracy: Percentage of correct classifications (churn vs. retain).
 
 •	Precision and Recall: Measures of model effectiveness in identifying actual churn clients without overestimating.
@@ -64,12 +64,12 @@ The primary metrics for model evaluation include:
 •	Customer Retention Rate: Percentage increase in client retention attributed to targeted interventions driven by model insights.
 
 •	Reduction in Retention Cost: Percentage reduction in costs achieved by focusing retention efforts on clients most likely to churn.
-=======
+
 Accuracy: Measures the overall correctness of predictions, representing the percentage of correct predictions out of all predictions made.
 Precision: Focuses on the proportion of true positive predictions out of all positive predictions, highlighting the reliability of positive classifications.
 Recall: Emphasizes the ability of the model to identify all actual positives, critical for imbalanced datasets.
 F1-Score: Combines Precision and Recall into a single metric to provide a balanced measure of a model's performance.
->>>>>>> ee93f9ae770acdcc2db6b68a5fc7c4d691c8b97f
+
 
 **Expected Benefits**
 
