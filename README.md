@@ -56,8 +56,11 @@ This project will span the following phases:
 The primary metrics for model evaluation include:
 
 •	Prediction Accuracy: Percentage of correct classifications (churn vs. retain).
+
 •	Precision and Recall: Measures of model effectiveness in identifying actual churn clients without overestimating.
+
 •	Customer Retention Rate: Percentage increase in client retention attributed to targeted interventions driven by model insights.
+
 •	Reduction in Retention Cost: Percentage reduction in costs achieved by focusing retention efforts on clients most likely to churn.
 
 **Expected Benefits**
