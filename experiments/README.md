@@ -73,5 +73,3 @@ Random Forest has the highest overall accuracy and balanced performance across a
 **Recommendations :**
 
 We can XGBoost for scenarios requiring high recall (e.g., minimizing false negatives). Random Forest is suitable for general-purpose tasks with high accuracy and balanced metrics.
-
-DSI_Team_Project_Bank_Marketing/experiments/README.md at Data-Processing · amirfarimani/DSI_Team_Project_Bank_Marketing
